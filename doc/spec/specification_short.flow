@@ -1,0 +1,117 @@
+010.000.002.005.40823-212.182.063.110.06667: NICK baryluk
+
+010.000.002.005.40823-212.182.063.110.06667: USER baryluk baryluk lublin.irc.pl :Witold Baryluk
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 020 * :Please wait while we process your connection.
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 001 baryluk :Welcome to the Internet Relay Network baryluk!~baryluk@tsk.ch.uj.edu.pl
+:lublin.irc.pl 002 baryluk :Your host is lublin.irc.pl, running version 2.11.2p1
+:lublin.irc.pl 003 baryluk :This server was created wto lip 15 2008 at 13:37:45 CEST
+:lublin.irc.pl 004 baryluk lublin.irc.pl 2.11.2p1 aoOirw abeiIklmnoOpqrRstv
+:lublin.irc.pl 005 baryluk RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+:lublin.irc.pl 005 baryluk PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+:lublin.irc.pl 042 baryluk 616LAFDBN :your unique ID
+:lublin.irc.pl 251 baryluk :There are 96507 users and 7 services on 35 servers
+:lublin.irc.pl 252 baryluk 153 :operators online
+:lublin.irc.pl 253 baryluk 15 :unknown connections
+:lublin.irc.pl 254 baryluk 48154 :channels formed
+:lublin.irc.pl 255 baryluk :I have 2009 users, 0 services and 1 servers
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 265 baryluk 2009 2149 :Current local users 2009, max 2149
+:lublin.irc.pl 266 baryluk 96507 97433 :Current global users 96507, max 97433
+:lublin.irc.pl 375 baryluk :- lublin.irc.pl Message of the Day - 
+:lublin.irc.pl 372 baryluk :- 15/7/2008 12:39
+:lublin.irc.pl 372 baryluk :- /-------------------------------------------------------------\ 
+:lublin.irc.pl 372 baryluk :- | Witamy na serwerze IRCNET, Lublin, POLSKA porty 6667 i 7776 |
+:lublin.irc.pl 372 baryluk :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk :- |                 Inne serwery irc w Polsce:                  |
+:lublin.irc.pl 372 baryluk :- |                        krakow.irc.pl                        |
+:lublin.irc.pl 372 baryluk :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk :- | Admin zastrzega sobie prawo do usuniecia z serwera (K:line) |
+:lublin.irc.pl 372 baryluk :- | dowolnej sesji bez podania przyczyn. Jesli Ci sie to bardzo |
+:lublin.irc.pl 372 baryluk :- | nie podoba, to mozesz zmienic serwer, z ktorego korzystasz. |
+:lublin.irc.pl 372 baryluk :- \-------------------------------------------------------------/
+:lublin.irc.pl 376 baryluk :End of MOTD command.
+:baryluk MODE baryluk :+i
+
+010.000.002.005.40823-212.182.063.110.06667: PING lublin.irc.pl
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl PONG lublin.irc.pl :lublin.irc.pl
+
+
+010.000.002.005.40823-212.182.063.110.06667: JOIN #kasldkjzc
+
+212.182.063.110.06667-010.000.002.005.40823: :baryluk!~baryluk@tsk.ch.uj.edu.pl JOIN :#kasldkjzc
+:lublin.irc.pl 353 baryluk = #kasldkjzc :@baryluk 
+:lublin.irc.pl 366 baryluk #kasldkjzc :End of NAMES list.
+
+010.000.002.005.40823-212.182.063.110.06667: MODE #kasldkjzc
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 324 baryluk #kasldkjzc + 
+
+010.000.002.005.40823-212.182.063.110.06667: WHO #kasldkjzc
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 352 baryluk #kasldkjzc ~baryluk tsk.ch.uj.edu.pl lublin.irc.pl baryluk H@ :0 616L Witold Baryluk
+:lublin.irc.pl 315 baryluk #kasldkjzc :End of WHO list.
+
+010.000.002.005.40823-212.182.063.110.06667: MODE #kasldkjzc b
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl 368 baryluk #kasldkjzc :End of Channel Ban List
+
+
+
+
+:baryluk!~baryluk@tsk.ch.uj.edu.pl JOIN :#dupa2
+:baryluk!~baryluk@tsk.ch.uj.edu.pl PRIVMSG #dupa2 :sami jestescie dupa
+:baryluk!~baryluk@tsk.ch.uj.edu.pl PRIVMSG #dupa2 :hahaha
+:baryluk!~baryluk@tsk.ch.uj.edu.pl NICK :baryluk55555
+:baryluk55555!~baryluk@tsk.ch.uj.edu.pl PRIVMSG #dupa2 :spadam dupki
+:baryluk55555!~baryluk@tsk.ch.uj.edu.pl PART #dupa2 :glupcy
+
+
+
+
+
+010.000.002.005.40823-212.182.063.110.06667: PART #kasldkjzc
+
+212.182.063.110.06667-010.000.002.005.40823: :baryluk!~baryluk@tsk.ch.uj.edu.pl PART #kasldkjzc :
+
+010.000.002.005.40823-212.182.063.110.06667: PING lublin.irc.pl
+
+212.182.063.110.06667-010.000.002.005.40823: :lublin.irc.pl PONG lublin.irc.pl :lublin.irc.pl
+
+
+
+
+
+
+
+
+12.182.063.110.06667-010.000.002.005.34469: :zmieniajacy!~baryluk@tsk.ch.uj.edu.pl TOPIC #dupa2 :Ala miewala kota
+
+010.000.002.005.34469-212.182.063.110.06667: PART #dupa2
+
+212.182.063.110.06667-010.000.002.005.34469: :baryluk!~baryluk@tsk.ch.uj.edu.pl PART #dupa2 :
+
+010.000.002.005.34469-212.182.063.110.06667: JOIN #dupa2
+
+212.182.063.110.06667-010.000.002.005.34469: :baryluk!~baryluk@tsk.ch.uj.edu.pl JOIN :#dupa2
+:lublin.irc.pl 332 baryluk #dupa2 :Ala miewala kota
+:lublin.irc.pl 333 baryluk #dupa2 zmieniajacy!~baryluk@tsk.ch.uj.edu.pl 1228086002
+:lublin.irc.pl 353 baryluk = #dupa2 :baryluk @zmieniajacy 
+:lublin.irc.pl 366 baryluk #dupa2 :End of NAMES list.
+
+010.000.002.005.34469-212.182.063.110.06667: MODE #dupa2
+
+212.182.063.110.06667-010.000.002.005.34469: :lublin.irc.pl 324 baryluk #dupa2 + 
+
+010.000.002.005.34469-212.182.063.110.06667: WHO #dupa2
+
+212.182.063.110.06667-010.000.002.005.34469: :lublin.irc.pl 352 baryluk #dupa2 ~baryluk tsk.ch.uj.edu.pl lublin.irc.pl baryluk H :0 616L Witold Baryluk
+:lublin.irc.pl 352 baryluk #dupa2 ~baryluk tsk.ch.uj.edu.pl lublin.irc.pl zmieniajacy H@ :0 616L Witold Baryluk
+:lublin.irc.pl 315 baryluk #dupa2 :End of WHO list.
+
+010.000.002.005.34469-212.182.063.110.06667: MODE #dupa2 b
+
+212.182.063.110.06667-010.000.002.005.34469: :lublin.irc.pl 368 baryluk #dupa2 :End of Channel Ban List
+

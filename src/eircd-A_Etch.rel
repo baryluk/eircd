@@ -1,0 +1,8 @@
+{release,
+	{"eircd_rel", "A_Etch"},
+	{erts, "5.3"},
+	[{kernel, "2.11.2"},
+	{stdlib, "1.14.2"},
+	{sasl, "2.1.4"},
+	{eircd, "0.0.0.1"}]
+}.

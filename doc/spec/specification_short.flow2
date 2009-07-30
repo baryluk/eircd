@@ -1,0 +1,208 @@
+
+010.000.002.005.43972-212.182.063.110.06667: NICK baryluk
+
+010.000.002.005.43972-212.182.063.110.06667: USER baryluk baryluk lublin.irc.pl :Witold Baryluk
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl 020 * :Please wait while we process your connection.
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl 001 baryluk :Welcome to the Internet Relay Network baryluk!~baryluk@tsk.ch.uj.edu.pl
+:lublin.irc.pl 002 baryluk :Your host is lublin.irc.pl, running version 2.11.2p1
+:lublin.irc.pl 003 baryluk :This server was created wto lip 15 2008 at 13:37:45 CEST
+:lublin.irc.pl 004 baryluk lublin.irc.pl 2.11.2p1 aoOirw abeiIklmnoOpqrRstv
+:lublin.irc.pl 005 baryluk RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+:lublin.irc.pl 005 baryluk PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+:lublin.irc.pl 042 baryluk 616LAJUWA :your unique ID
+:lublin.irc.pl 251 baryluk :There are 90999 users and 7 services on 35 servers
+:lublin.irc.pl 252 baryluk 142 :operators online
+:lublin.irc.pl 253 baryluk 7 :unknown connections
+:lublin.irc.pl 254 baryluk 47069 :channels formed
+:lublin.irc.pl 255 baryluk :I have 1461 users, 0 services and 1 servers
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl 265 baryluk 1461 2149 :Current local users 1461, max 2149
+:lublin.irc.pl 266 baryluk 90999 97433 :Current global users 90999, max 97433
+:lublin.irc.pl 375 baryluk :- lublin.irc.pl Message of the Day - 
+:lublin.irc.pl 372 baryluk :- 15/7/2008 12:39
+:lublin.irc.pl 372 baryluk :- /-------------------------------------------------------------\ 
+:lublin.irc.pl 372 baryluk :- | Witamy na serwerze IRCNET, Lublin, POLSKA porty 6667 i 7776 |
+:lublin.irc.pl 372 baryluk :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk :- |                 Inne serwery irc w Polsce:                  |
+:lublin.irc.pl 372 baryluk :- |                        krakow.irc.pl                        |
+:lublin.irc.pl 372 baryluk :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk :- | Admin zastrzega sobie prawo do usuniecia z serwera (K:line) |
+:lublin.irc.pl 372 baryluk :- | dowolnej sesji bez podania przyczyn. Jesli Ci sie to bardzo |
+:lublin.irc.pl 372 baryluk :- | nie podoba, to mozesz zmienic serwer, z ktorego korzystasz. |
+:lublin.irc.pl 372 baryluk :- \-------------------------------------------------------------/
+:lublin.irc.pl 376 baryluk :End of MOTD command.
+:baryluk MODE baryluk :+i
+
+212.182.063.110.06667-010.000.002.005.43972: :LPLmon!~mon@127.0.0.1 PRIVMSG baryluk :.VERSION.
+
+010.000.002.005.43972-212.182.063.110.06667: NOTICE LPLmon :.VERSION irssi v0.8.12.
+
+010.000.002.005.43972-212.182.063.110.06667: PING lublin.irc.pl
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl PONG lublin.irc.pl :lublin.irc.pl
+
+010.000.002.005.43972-212.182.063.110.06667: NICK AAAAAAAA
+
+212.182.063.110.06667-010.000.002.005.43972: :baryluk!~baryluk@tsk.ch.uj.edu.pl NICK :AAAAAAAA
+
+010.000.002.005.43972-212.182.063.110.06667: JOIN #debian.pl
+
+212.182.063.110.06667-010.000.002.005.43972:
+:AAAAAAAA!~baryluk@tsk.ch.uj.edu.pl JOIN :#debian.pl
+:lublin.irc.pl 332 AAAAAAAA #debian.pl :Witaj na #debian.pl; $year++; 2.6.28 2008-12-24 23:45 UTC
+:lublin.irc.pl 333 AAAAAAAA #debian.pl tekmar!tekmar@217.113.224.225 1231419764
+:lublin.irc.pl 353 AAAAAAAA = #debian.pl :AAAAAAAA solid` cinus likon wodor @Karl Shinden21 @styl @masklin @Daymond @db rastah tomakoz @Lamagra mia_wall1ce m_o_d__ Seizer fastman @fEnIo gibi_ zolty @tekmar phoenx pawle Mentor seigan eneon holma @rozie motorhead- @ikeX HaflingeR Kracak luksus siewa bz Rad stryjek Kylo adr diabel tcpdump KOWBI wiertarka beluosus _Max__ krys damazy Yampress @Buciorek @LiNiO @Junior ex uniks_ m_o_d taihen @|`VadeR`| wiedzmin @MichalZ @Izza peredhil nemeczek 
+:lublin.irc.pl 353 AAAAAAAA = #debian.pl :Argail tym0n z0nk motto Najkon +gibi` marioz jaSS Hexio_ miszka lil0 @SoboL Kamyk_^ @deviant code Th0r @jam enemy_r7 @kartofel Karl_ Kelong kostek @DOM3L natan liner _leeloo_ SoR erade chlopczyk @MadCow SnYDer SzArAk ksk-off kobracoo1 @Aqq @Radex Jasw|alaj axelus @Unc lipek solitary Oscar 
+:lublin.irc.pl 366 AAAAAAAA #debian.pl :End of NAMES list.
+
+
+
++==================== a ja mam tak
+127.000.000.001.06667-127.000.000.001.49860:
+:baryluk!baryluk@localhost JOIN :#ala
+:localhost 332 baryluk #ala :Bylo sobie raz server
+:localhost 333 baryluk #ala witek!baryluk@localhost 1231419764
+:localhost 353 baryluk = #ala :baryluk baryluk_ baryluk_2 baryluk__
+:localhost 366 baryluk #ala :End of NAMES list.
+
++++++++++++++++++++++
+
+
+
+
+010.000.002.005.43972-212.182.063.110.06667: MODE #debian.pl
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl 324 AAAAAAAA #debian.pl +tin 
+
+010.000.002.005.43972-212.182.063.110.06667: WHO #debian.pl
+
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~baryluk tsk.ch.uj.edu.pl lublin.irc.pl AAAAAAAA H :0 616L Witold Baryluk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl solid mydevil.pl *.de solid` H :6 276B Unknown
+:lublin.irc.pl 352 AAAAAAAA #debian.pl cinus alpos.pl lublin.irc.pl cinus H :0 616L cinus
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~likon chello084010138192.chello.pl lublin.irc.pl likon H :0 616L Robert ?liwi?ski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl wodor linux.si4.org lublin.irc.pl wodor H :0 616L "...Jak wczoraj co nie znaczy nic, jak jutro zn..w
+:lublin.irc.pl 352 AAAAAAAA #debian.pl karl urtica.linuxnews.pl lublin.irc.pl Karl H@ :0 616L Commander Karl
+:lublin.irc.pl 352 AAAAAAAA #debian.pl d118990 hypnos.fmcs.amu.edu.pl lublin.irc.pl Shinden21 H :0 616L Chwila zw.tpienia w s.abszego ci. zmienia
+:lublin.irc.pl 352 AAAAAAAA #debian.pl rzadki bobas.nowytarg.pl krakow.irc.pl styl H@ :2 616K * I'm to lame to read BitchX.chi *
+:lublin.irc.pl 352 AAAAAAAA #debian.pl masklin makigai.org lublin.irc.pl masklin G@ :0 616L S...J...
+:lublin.irc.pl 352 AAAAAAAA #debian.pl daymond enterprise.ultra.waw.pl krakow.irc.pl Daymond H@ :2 616K daymond
+:lublin.irc.pl 352 AAAAAAAA #debian.pl db debian.linux.pl krakow.irc.pl db H@ :2 616K db
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~mariusz static-87-105-190-245.ssp.dialog.net.pl krakow.irc.pl rastah H :2 616K Mariusz Hawrylkiewicz
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~tomakoz aeas231.neoplus.adsl.tpnet.pl krakow.irc.pl tomakoz H :2 616K Tomasz Kozubal
+:lublin.irc.pl 352 AAAAAAAA #debian.pl lamagra lamagra.org krakow.irc.pl Lamagra H@ :2 616K [CWC] Don't look to....
+:lublin.irc.pl 352 AAAAAAAA #debian.pl mia shell.a2z.pl krakow.irc.pl mia_wall1ce H :2 616K Mia
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~kane host.ltv.pl krakow.irc.pl m_o_d__ H :2 616K Adam N.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl seizer 80.54.38.253 krakow.irc.pl Seizer H :2 616K Kamil
+:lublin.irc.pl 352 AAAAAAAA #debian.pl fastman xserve.pl krakow.irc.pl fastman H :2 616K kuba
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~fenio on.debian.linux.org.pl krakow.irc.pl fEnIo H@ :2 616K Bartosz Fenski aka fEnIo
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~gibi blokers.interkonekt.pl krakow.irc.pl gibi_ H :2 616K Czy ta.czy.e. kiedy. z diab.em, w bladym .wietle k
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~pzoltows mion.elka.pw.edu.pl lublin.irc.pl zolty H :0 616L Przemyslaw Zoltowski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~phoenx 91.192.167.121 lublin.irc.pl phoenx H :0 616L phoenx
+:lublin.irc.pl 352 AAAAAAAA #debian.pl pawle rox.us lublin.irc.pl pawle H :0 616L Pawel Kowlaski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl mentor xdsl.012.c90.petrotel.pl lublin.irc.pl Mentor G :0 616L Mentor
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~neuromanc 194.50.53.75 krakow.irc.pl seigan H :2 616K .
+:lublin.irc.pl 352 AAAAAAAA #debian.pl eneon rooted.pl krakow.irc.pl eneon H :2 616K ABW
+:lublin.irc.pl 352 AAAAAAAA #debian.pl holmier binaryequipment.com krakow.irc.pl holma H :2 616K Inspectah holm
+:lublin.irc.pl 352 AAAAAAAA #debian.pl rozie akademia.szluug.org *.nl rozie H@ :5 528E Pawe. 'R..a' R..a.ski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl +lemmy oak.rpg.pl krakow.irc.pl motorhead- H :2 616K Lemmy From Motorhead ;)
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ike akademia.szluug.org *.nl ikeX H@ :5 528G Lech Karol Paw..aszek
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~kudjan user15.229.udn.pl krakow.irc.pl HaflingeR H :2 616K admin
+:lublin.irc.pl 352 AAAAAAAA #debian.pl kracak otacon.fal-net.pl krakow.irc.pl Kracak G :2 616K Unknown
+:lublin.irc.pl 352 AAAAAAAA #debian.pl lwaligora aniol.demon.pl lublin.irc.pl luksus G :0 616L .Luksus.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~siewa users.vline.pl krakow.irc.pl siewa H :2 616K tester by mod
+:lublin.irc.pl 352 AAAAAAAA #debi
+212.182.063.110.06667-010.000.002.005.43972: an.pl ~lukas seclab.pl *
+212.182.063.110.06667-010.000.002.005.43972: .de bz H :4 276F code_name = 'John Doe';
+:lublin.irc.pl 352 AAAAAAAA #debian.pl rad spali.waszsklep.pl krakow.irc.pl Rad H :2 616K Jimmy Lee Biscuit
+:lublin.irc.pl 352 AAAAAAAA #debian.pl stryjek by206.internetdsl.tpnet.pl ircnet.eversible.com stryjek G :5 0PNE .4belu.8osus.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl kylo maluch.pcz.pl krakow.irc.pl Kylo H :2 616K  
+:lublin.irc.pl 352 AAAAAAAA #debian.pl r mistrz.info *.ee adr G :6 233E Radek
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~yyyyyyyyy xdsl-1228.zgora.dialog.net.pl lublin.irc.pl diabel H :0 616L diabel
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~zetbee chello089077083122.chello.pl lublin.irc.pl tcpdump H :0 616L Zbigniew Sobczynski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl kowbi z.polobrotu.mu.pl lublin.irc.pl KOWBI H :0 616L ..4...::: Nadircownik dr_Kowbistein :::...
+:lublin.irc.pl 352 AAAAAAAA #debian.pl snieg evilcore.org *.be wiertarka G :4 056D i am just a worthless liar. i am just an imbecile
+:lublin.irc.pl 352 AAAAAAAA #debian.pl beluosus 213.155.168.206 krakow.irc.pl beluosus H :2 616K .4belu.8osus.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl max aniol.demon.pl krakow.irc.pl _Max__ H :2 616K Maciek Hofstede
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~krystian zsl.gda.pl lublin.irc.pl krys H :0 616L -.Digital World.-
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~damazy xdsl-16752.wroclaw.dialog.net.pl lublin.irc.pl damazy H :0 616L Bruce Lee,,,
+:lubli
+212.182.063.110.06667-010.000.002.005.43972: n.irc.pl 352 AAAAAAAA #d
+212.182.063.110.06667-010.000.002.005.43972: ebian.pl yampress dug.net.pl ircnet.eversible.com Yampress H :5 0PNE Yampress
+:lublin.irc.pl 352 AAAAAAAA #debian.pl buciorek linio.wonder.pl lublin.irc.pl Buciorek H@ :0 616L A to tylko ja ;P
+:lublin.irc.pl 352 AAAAAAAA #debian.pl linio linio.wonder.pl krakow.irc.pl LiNiO H@ :2 616K Litwiniec Robert,,,
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~junior junior.eu.org lublin.irc.pl Junior H@ :0 616L AGG
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ex valis.net.pl lublin.irc.pl ex H :0 616L Tomasz Szymczak
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~uniks host-87-99-24-66.lanet.net.pl lublin.irc.pl uniks_ H :0 616L uniks
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~kane users.vline.pl krakow.irc.pl m_o_d H :2 616K Adam N.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl taihen bee.taihen.org lublin.irc.pl taihen G :0 616L Andrzej Wolski
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~vadersky tkornet.pl us.ircnet.org |`VadeR`| H@ :5 0PNU Ostatni ksiaze ciemnej strony mocy
+:lublin.irc.pl 352 AAAAAAAA #debian.pl wiedzmin gl149-27.master.pl lublin.irc.pl wiedzmin G :0 616L Unknown
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~michalz irc.debian.pl lublin.irc.pl MichalZ H@ :0 616L Michal Zubryk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl iza 189-mo2-9.acn.waw.pl lublin.irc.pl Izza H@ :0 616L Anio. o Czarnych Skrzyd.ach
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ^peredhil 194.181.131.230 krakow.irc.pl peredhil H :2 616K Wojcik Lukasz
+:lublin.irc.
+212.182.063.110.06667-010.000.002.005.43972: pl 352 AAAAAAAA #debian.
+212.182.063.110.06667-010.000.002.005.43972: pl rad edy219.internetdsl.tpnet.pl ircnet.eversible.com nemeczek H :5 0PNE Jimmy Lee Biscuit
+:lublin.irc.pl 352 AAAAAAAA #debian.pl argail histeria.pl krakow.irc.pl Argail H :2 616K .-=*=-. Piwny Potfoor .-=*=-.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl tym0n GATE-dialog-umz.zgora.dialog.net.pl lublin.irc.pl tym0n H :0 616L Tomasz Jakub Skrynnyk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl z0nk 32.116.242.195.static.sisco.pl krakow.irc.pl z0nk H :2 616K Adam Hnat aka z0nk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl motto 32.116.242.195.static.sisco.pl lublin.irc.pl motto G :0 616L NieMusiszBycWariatemAbyZeMnaRozmawiacAleToPomaga
+:lublin.irc.pl 352 AAAAAAAA #debian.pl krystian bsu.pl krakow.irc.pl Najkon G :2 616K Krystian " Najkon " T.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~gibi 194.181.194.70 krakow.irc.pl gibi` H+ :2 616K Rados..aw "gibi" Kwa..ny
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~mazel pc.19314750.ip.amg.net.pl lublin.irc.pl marioz H :0 616L Mariusz,,,
+:lublin.irc.pl 352 AAAAAAAA #debian.pl jass wolf.ict.pwr.wroc.pl krakow.irc.pl jaSS H :2 616K Jan Kostrubiec
+:lublin.irc.pl 352 AAAAAAAA #debian.pl hexio xen1.xnet.org.pl lublin.irc.pl Hexio_ H :0 616L Krzysztof Magosa
+:lublin.irc.pl 352 AAAAAAAA #debian.pl miszka aniol.demon.pl lublin.irc.pl miszka G :0 616L miszka
+:lublin.irc.pl 352 AAAAAAAA #debian.pl lil0 uuid.pl ircnet.eversible.com lil0 G :5 0PNE lil0
+:lublin.irc.pl 352 AAAAAAAA #debian.pl 
+212.182.063.110.06667-010.000.002.005.43972: sobol sobol.org ircnet.e
+212.182.063.110.06667-010.000.002.005.43972: versible.com SoboL H@ :5 0PNE Ugly Mother Fucker
+:lublin.irc.pl 352 AAAAAAAA #debian.pl kamyk n.ix.net.pl ircnet.eversible.com Kamyk_^ H :5 0PNE .:Debian Power:.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl deviant nyxis.co.uk *.de deviant H@ :3 276N No need to cry..
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~code city-net.pl krakow.irc.pl code H :2 616K code
+:lublin.irc.pl 352 AAAAAAAA #debian.pl thor kernel.org.pl lublin.irc.pl Th0r H :0 616L * I'm too lame to read BitchX.doc *
+:lublin.irc.pl 352 AAAAAAAA #debian.pl przemek vizavi.pl lublin.irc.pl jam H@ :0 616L #Debian.pl
+:lublin.irc.pl 352 AAAAAAAA #debian.pl r7 borg.uu3.net lublin.irc.pl enemy_r7 H :0 616L Name
+:lublin.irc.pl 352 AAAAAAAA #debian.pl potato vizavi.pl lublin.irc.pl kartofel H@ :0 616L debian potato user
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~outlaw nautilus.torch.net.pl lublin.irc.pl Karl_ G :0 616L Commander Karl
+:lublin.irc.pl 352 AAAAAAAA #debian.pl s6280 msh.pjwstk.edu.pl krakow.irc.pl Kelong H :2 616K Maciej Lelito
+:lublin.irc.pl 352 AAAAAAAA #debian.pl admin alfa.icis.pcz.pl lublin.irc.pl kostek G :0 616L Michal Mszyca
+:lublin.irc.pl 352 AAAAAAAA #debian.pl domel alfa.icis.pcz.pl krakow.irc.pl DOM3L H@ :2 616K Radoslaw Fedkowicz
+:lublin.irc.pl 352 AAAAAAAA #debian.pl natan joda.hicon.pl lublin.irc.pl natan H :0 616L natan
+:lublin.irc.pl 352 AAAAAAAA #debian.pl liner linux.si4.org lublin.irc.pl liner G :0 616L = liner
+:l
+212.182.063.110.06667-010.000.002.005.43972: ublin.irc.pl 352 AAAAAAA
+212.182.063.110.06667-010.000.002.005.43972: A #debian.pl ~leeloo ft.utp.edu.pl lublin.irc.pl _leeloo_ H :0 616L Bubu!
+:lublin.irc.pl 352 AAAAAAAA #debian.pl sor czlug.icis.pcz.pl krakow.irc.pl SoR H :2 616K Niech TUX ma was w opiece
+:lublin.irc.pl 352 AAAAAAAA #debian.pl radex auth.linux.pl lublin.irc.pl erade H :0 616L http://debian.linux.pl/br
+:lublin.irc.pl 352 AAAAAAAA #debian.pl chlopczyk maluch.pcz.pl krakow.irc.pl chlopczyk H :2 616K ch.opczyk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl grzechu maluch.pcz.pl krakow.irc.pl MadCow H@ :2 616K MadCow
+:lublin.irc.pl 352 AAAAAAAA #debian.pl snyder maluch.pcz.pl krakow.irc.pl SnYDer G :2 616K SnYDer
+:lublin.irc.pl 352 AAAAAAAA #debian.pl szarak maluch.pcz.pl krakow.irc.pl SzArAk G :2 616K Krolik  / SzArAk
+:lublin.irc.pl 352 AAAAAAAA #debian.pl kosik bnc166.pifpaf.pl krakow.irc.pl ksk-off G :2 616K kosik
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~kobra mykonos.iie.uz.zgora.pl krakow.irc.pl kobracoo1 H :2 616K .3,4. KObRACooL / IRC ..
+:lublin.irc.pl 352 AAAAAAAA #debian.pl aqq kernel.org.pl lublin.irc.pl Aqq H@ :0 616L * I'm too lame to read BitchX.doc *
+:lublin.irc.pl 352 AAAAAAAA #debian.pl br debian.linux.pl krakow.irc.pl Radex H@ :2 616K http://debian.linux.pl/br
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~jasiek maszynownia.maszyna.pl lublin.irc.pl Jasw|alaj H :0 616L Jan Widel
+:lublin.irc.pl 352 AAAAAAAA #debian.pl axel babu.folijka.pl lublin.irc.pl axelus H :0 616L Maciej Rataj
+:lublin.ir
+212.182.063.110.06667-010.000.002.005.43972: c.pl 352 AAAAAAAA #debia
+212.182.063.110.06667-010.000.002.005.43972: n.pl unc unc.pl krakow.irc.pl Unc G@ :2 616K .http://lice.codehack.com.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl lipek lipek.pl lublin.irc.pl lipek H :0 616L I fuck on the first date.
+:lublin.irc.pl 352 AAAAAAAA #debian.pl ~solitary 89.191.151.18 krakow.irc.pl solitary H :2 616K solitary
+:lublin.irc.pl 352 AAAAAAAA #debian.pl e16oskar student.tu.kielce.pl krakow.irc.pl Oscar G :2 616K Oskar Kaluza
+:lublin.irc.pl 315 AAAAAAAA #debian.pl :End of WHO list.
+
+010.000.002.005.43972-212.182.063.110.06667: MODE #debian.pl b
+
+212.182.063.110.06667-010.000.002.005.43972: :lublin.irc.pl 367 AAAAAAAA #debian.pl *!*@80.51.134.*
+:lublin.irc.pl 367 AAAAAAAA #debian.pl *!*@213.186.*.*
+:lublin.irc.pl 368 AAAAAAAA #debian.pl :End of Channel Ban List
+
+010.000.002.005.43972-212.182.063.110.06667: QUIT :leaving
+
+212.182.063.110.06667-010.000.002.005.43972: ERROR :Closing Link: AAAAAAAA[~baryluk@tsk.ch.uj.edu.pl] ("leaving")
+
+

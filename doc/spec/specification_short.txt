@@ -1,0 +1,177 @@
+http://www.irchelp.org/irchelp/rfc/rfc.html
+
+Required:
+	PASS <password>
+	NICK <nick> { <hopcount> }
+	USER <username> <hostname> <servername> <realname>
+	SERVER <servername> <hopcount> <info>
+	OPER <user> <password
+	QUIT [<Quit message>]
+	SQUIT <server> <comment>
+	JOIN <channel>{,<channel>} [<key>{,<key>}]
+	PART <channel>{,<channel>}
+	MODE <channel> {[+|-]|o|p|s|i|t|n|b|v} [<limit>] [<user>] [<ban mask>]
+	MODE <nickname> {[+|-]|i|w|s|o}
+	TOPIC <channel> [<topic>]
+	NAMES [<channel>{,<channel>}]
+	LIST [<channel>{,<channel>} [<server>]]
+	INVITE <nickname> <channel>
+	KICK <channel> <user> [<comment>]
+	VERSION [ <server> ]
+	STATS [ <query> [ <server> ] ]
+	LINKS [ [ <remote server> ] <server maks> ]
+	TIME [ <server>]
+	CONNECT <target server> [ <port> [ <remote server> ] ]
+	TRACE [ <server> ]
+	ADMIN [ <server> ]
+	INFO [ <server> ]
+	PRIVMSG <receiver>(,<receiver>)* <text>
+	NOTICE <nickname> <text>
+	WHO [<name> [ o ] ]
+	WHOIS [ <server> ] <nickmask>(,<nickmask>)*
+	WHOWAS <nickname> [ <count> [ <server> ] ]
+	KILL <nickname> <comment>
+	PING <server1> [ <server2> ]
+	PONG <daemon> [ <daemon2> ]
+	ERROR <message>
+
+Optional:
+	AWAY [ <message> ]
+	REHASH
+	RESTART
+	SUMMON <user> [ <server> ]
+	USERS [ <server> ]
+	WALLOPS <text>
+	USERHOST <nickname> <nickname>? <nickname>? <nickname>? <nickname>?
+	ISON <nickname>... ( totaly no more than 512 not white characters)
+
+
+-> USER baryluk +iws baryluk :Witold Baryluk 
+-> NICK baryluk
+
+:krakow.irc.pl 001 baryluk :Welcome to the Internet Relay Network baryluk!~baryluk@tsk.ch.uj.edu.pl
+:krakow.irc.pl 002 baryluk :Your host is krakow.irc.pl, running version 2 11 2
+:krakow.irc.pl 003 baryluk :This server was created Tue Jun 24 2008 at 14:15:51 CEST
+:krakow.irc.pl 004 baryluk krakow.irc.pl 2 11 2 aoOirw abeiIklmnoOpqrRstv
+:krakow.irc.pl 005 baryluk RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&! :21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=! :5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+:krakow.irc.pl 005 baryluk PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+:krakow.irc.pl 042 baryluk 616KANQRU :your unique ID
+:krakow.irc.pl 251 baryluk :There are 83934 users and 6 services on 35 servers
+:krakow.irc.pl 252 baryluk 151 :operators online
+:krakow.irc.pl 253 baryluk 7 :unknown connections
+:krakow.irc.pl 254 baryluk 45179 :channels formed
+:krakow.irc.pl 255 baryluk :I have 2109 users, 0 services and 1 servers
+:krakow.irc.pl 265 baryluk 2109 3237 :Current local users 2109, max 3237
+:krakow.irc.pl 266 baryluk 83934 97284 :Current global users 83934, max 97284
+:krakow.irc.pl 375 baryluk :- krakow.irc.pl Message of the Day -
+:krakow.irc.pl 372 baryluk:- 12/5/2008 15:02
+:krakow.irc.pl 372 baryluk :-                __              __   
+:krakow.irc.pl 372 baryluk :-               / /___________ _/ /______ _      __  :krakow.irc.pl
+ 372 baryluk :- 
+             / /
+:krakow.irc.pl 372 baryluk:- -----------------------------------------------------------------
+:krakow.irc.pl 376 baryluk :End of MOTD command
+:baryluk MODE baryluk :+iw
+-> USERHOST baryluk
+-> MODE baryluk +iws
+-> MODE baryluk
+:krakow.irc.pl 302 baryluk :baryluk=+~baryluk@tsk.ch.uj.edu.pl
+:krakow.irc.pl 501 baryluk :Unknown MODE flag
+:krakow.irc.pl 221 baryluk +iw  
+
+
+-> PING krakow.irc.pl 
+:krakow.irc.pl PONG krakow.irc.pl
+
+-> PING 1227201404 krakow.irc.pl 
+:krakow.irc.pl PONG krakow.irc.pl :1227201404 
+
+-> JOIN #debian.pl
+:baryluk!~baryluk@tsk.ch.uj.edu.pl JOIN :#debian.pl  
+:krakow.irc.pl 332 baryluk #debian pl :2 6 27 6  2008-11-13 18:42 UTC  
+:krakow.irc.pl 333 baryluk #debian pl rozie!rozie@akademia.szluug.org 1226645237  
+:krakow.irc.pl 353 baryluk = #debian pl :baryluk Karter Ciastek tomakoz_ jaSS Najkon devein Karl_ zay revq z0nk anT0n` Mentor
+           .... Yampress adxxx Seizer  ....   @Izza @DOM3L goFer natan @Karl
+
+:krakow.irc.pl 353 baryluk = #debian pl :@Aqq Th0r compi Kaka @MichalZ rexor @deviant cinus
+          ....  MadCow SzArAk ch  .... leeloo_ft SoR ice @jam @kartofel Oscar axelus @Radex
+
+:krakow.irc.pl 366 baryluk #debian pl :End of NAMES list
+-> MODE #debian.pl
+-> MODE #debian.pl b
+-> WHO #debian.pl
+
+:krakow.irc.pl 324 baryluk #debian pl +tin   
+:krakow.irc.pl 367 baryluk #debian pl *!*amz@whore.pl
+:krakow.irc.pl 367 baryluk #debian pl *!*@80 51 134 *  
+:krakow.irc.pl 367 baryluk #debian pl *!*@213 186 * *  
+:krakow.irc.pl 368 baryluk #debian pl :End of Channel Ban List  
+:krakow.irc.pl 352 baryluk #debian pl ~baryluk tsk.ch.uj.edu.pl krakow.irc.pl baryluk H :0 616K Witold Baryluk  
+:krakow.irc.pl 352 baryluk #debian pl ~karter 62 61 50 68 krakow.irc.pl Karter H :0 616K Karter
+   
+:krakow.irc.pl 352 baryluk #debian pl potato vizavi pl krakow.irc.pl kartofel H@ :0 616K debian potato user  
+:krakow.irc.pl 352 baryluk #debian pl e16oskar student tu kielce.pl krakow.irc.pl Oscar G :0 616K Oskar Kaluza
+:krakow.irc.pl 352 baryluk #debian pl axel babu folijka pl lublin.irc.pl axelus H :2 616L Maciej Rataj  
+:krakow.irc.pl 352 baryluk #debian pl br debian linux pl krakow.irc.pl Radex H@ :0 616K http://debian.linux.pl/br
+:krakow.irc.pl 315 baryluk #debian pl :End of WHO list   
+
+-> PART #debian
+:baryluk!~baryluk@tsk.ch.uj.edu.pl PART #debian pl :  
+
+
+
+:Pikffa!pikwa@nocnik.will.neverkill.us PRIVMSG #warszawa :.tak ogolnie to chuj wam!
+:tomakoz!~tomakoz@acye254.neoplus.adsl.tpnet.pl JOIN :#debian.pl
+
+
+PING :lublin.irc.pl
+PONG lublin.irc.pl
+
+
+
+
+:lublin.irc.pl 020 * :Please wait while we process your connection.
+USER baryluk +iws baryluk2 :Witek Baryluk
+NICK baryluk3
+:lublin.irc.pl 001 baryluk3 :Welcome to the Internet Relay Network baryluk3!~baryluk@tsk.ch.uj.edu.pl
+:lublin.irc.pl 002 baryluk3 :Your host is lublin.irc.pl, running version 2.11.2p1
+:lublin.irc.pl 003 baryluk3 :This server was created wto lip 15 2008 at 13:37:45 CEST
+:lublin.irc.pl 004 baryluk3 lublin.irc.pl 2.11.2p1 aoOirw abeiIklmnoOpqrRstv
+:lublin.irc.pl 005 baryluk3 RFC2812 PREFIX=(ov)@+ CHANTYPES=#&!+ MODES=3 CHANLIMIT=#&!+:21 NICKLEN=15 TOPICLEN=255 KICKLEN=255 MAXLIST=beIR:64 CHANNELLEN=50 IDCHAN=!:5 CHANMODES=beIR,k,l,imnpstaqr :are supported by this server
+:lublin.irc.pl 005 baryluk3 PENALTY FNC EXCEPTS=e INVEX=I CASEMAPPING=ascii NETWORK=IRCnet :are supported by this server
+:lublin.irc.pl 042 baryluk3 616LAETTB :your unique ID
+:lublin.irc.pl 251 baryluk3 :There are 95376 users and 7 services on 35 servers
+:lublin.irc.pl 252 baryluk3 157 :operators online
+:lublin.irc.pl 253 baryluk3 24 :unknown connections
+:lublin.irc.pl 254 baryluk3 47886 :channels formed
+:lublin.irc.pl 255 baryluk3 :I have 1925 users, 0 services and 1 servers
+:lublin.irc.pl 265 baryluk3 1925 2149 :Current local users 1925, max 2149
+:lublin.irc.pl 266 baryluk3 95376 97115 :Current global users 95376, max 97115
+:lublin.irc.pl 375 baryluk3 :- lublin.irc.pl Message of the Day - 
+:lublin.irc.pl 372 baryluk3 :- 15/7/2008 12:39
+:lublin.irc.pl 372 baryluk3 :- /-------------------------------------------------------------\ 
+:lublin.irc.pl 372 baryluk3 :- | Witamy na serwerze IRCNET, Lublin, POLSKA porty 6667 i 7776 |
+:lublin.irc.pl 372 baryluk3 :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk3 :- |                 Inne serwery irc w Polsce:                  |
+:lublin.irc.pl 372 baryluk3 :- |                        krakow.irc.pl                        |
+:lublin.irc.pl 372 baryluk3 :- >-------------------------------------------------------------<
+:lublin.irc.pl 372 baryluk3 :- | Admin zastrzega sobie prawo do usuniecia z serwera (K:line) |
+:lublin.irc.pl 372 baryluk3 :- | dowolnej sesji bez podania przyczyn. Jesli Ci sie to bardzo |
+:lublin.irc.pl 372 baryluk3 :- | nie podoba, to mozesz zmienic serwer, z ktorego korzystasz. |
+:lublin.irc.pl 372 baryluk3 :- \-------------------------------------------------------------/
+:lublin.irc.pl 376 baryluk3 :End of MOTD command.
+:baryluk3 MODE baryluk3 :+iw
+NICK jan
+:lublin.irc.pl 433 baryluk3 jan :Nickname is already in use.
+
+PING lublin.irc.pl
+:lublin.irc.pl PONG lublin.irc.pl :lublin.irc.pl
+PING li lublin.irc.pl
+:lublin.irc.pl PONG lublin.irc.pl :li
+PING li
+:lublin.irc.pl PONG lublin.irc.pl :li
+PING asdasfzxc
+:lublin.irc.pl PONG lublin.irc.pl :asdasfzxc
+PING lublin.irc.pl :asdasd
+:lublin.irc.pl 402 alaaadfaf asdasd :No such server
+:lublin.irc.pl 461 asdazxc PING :Not enough parameters

@@ -1,0 +1,14 @@
+operator:
+010.006.006.042.47364-149.156.124.222.06667: MODE #alamakota +o witek003
+149.156.124.222.06667-010.006.006.042.47364: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota +o witek003 
+010.006.006.042.47364-149.156.124.222.06667: MODE #alamakota -o witek003
+149.156.124.222.06667-010.006.006.042.47364: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota -o witek003 
+010.006.006.042.47364-149.156.124.222.06667: MODE #alamakota -o witek003
+149.156.124.222.06667-010.006.006.042.47364: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota -o witek003 
+
+nieoperator:
+010.006.006.042.58547-149.156.124.222.06661: MODE #alamakota +o witek002_op
+149.156.124.222.06661-010.006.006.042.58547: :krakow.irc.pl 482 witek003 #alamakota :You're not channel operator
+149.156.124.222.06661-010.006.006.042.58547: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota +o witek003 
+149.156.124.222.06661-010.006.006.042.58547: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota -o witek003 
+149.156.124.222.06661-010.006.006.042.58547: :witek002_op!~baryluk@ip177-180.ghnet.pl MODE #alamakota -o witek003 
